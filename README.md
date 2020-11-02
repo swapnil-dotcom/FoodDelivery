@@ -1,2 +1,0 @@
-# FoodDelivery
-My static website
